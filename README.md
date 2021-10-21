@@ -28,4 +28,4 @@ Upload on Pdisk by Url, File and also by direct forward post from other channel.
 
 ##### Credit
 
-- Me [Paritosh Kumar](https://github.com/ParitoshPky) For This
+- Me [priyanshu kunar](https://github.com/ParitoshPky) For This

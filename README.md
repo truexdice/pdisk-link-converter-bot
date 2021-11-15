@@ -16,7 +16,7 @@ Upload on Pdisk by Url, File and also by direct forward post from other channel.
 
 #### The Easy Way
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy?template=https://github.com/PRIYANSHU098U7/pdisk-link-converter-bot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy?template=https://github.com/truexdice/pdisk-link-converter-bot)
 
 ##### Required Variables
 
